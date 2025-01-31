@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @vjaykr
+# 👋 Hi, I’m Vijay Kumar
 
 ## 🚀 About Me  
 I am a **Cisco Certified Network Associate (CCNA)** with expertise in **programming, IT support, and web application development**. Currently, I am expanding my skill set by learning **Google Cybersecurity**. My goal is to apply my **technical knowledge and problem-solving abilities** to contribute effectively to IT projects.  
