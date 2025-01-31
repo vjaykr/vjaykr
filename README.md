@@ -15,12 +15,6 @@ I am a **Cisco Certified Network Associate (CCNA)** with expertise in **programm
 - **Google Cybersecurity Professional Certification**  
 - **Advanced Network Security & Risk Management**  
 
-## 💼 Projects  
-### **Personal Finance Management System**  
-📌 *Tech Stack: Flask, HTML, CSS, SQLite*  
-- Developed a web-based app to track and categorize personal finances  
-- Implemented **secure authentication** and **graphical transaction analysis**  
-- Integrated **Excel export** for financial reports  
 
 ## 💻 Technical Experience  
 - **Freelance IT Support**: Provided technical troubleshooting, resolving hardware/software issues  
@@ -37,9 +31,8 @@ I am a **Cisco Certified Network Associate (CCNA)** with expertise in **programm
 - **Web Application Development (Flask, Java, Python)**  
 - **Open-source IT Support & Security Tools**  
 
-## 📫 How to Reach Me  
-📩 Email: [Your Email]  
-💼 LinkedIn: [Your LinkedIn Profile]  
-🌐 Portfolio: [Your Portfolio (if any)]  
+## 📫 How to Reach Me   
+💼 LinkedIn: https://www.linkedin.com/in/vijay-main/  
+🌐 Portfolio: https://vjaykr.github.io/about/ 
 
 ⚡ **Fun Fact:** I love debugging network issues as much as I love coding!  
